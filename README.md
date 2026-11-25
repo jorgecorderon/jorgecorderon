@@ -39,7 +39,7 @@ I combine technical SAP training with approximately 10 years of professional exp
 ## 🎓 Certifications & Training
 
 - SAP Certified - Back-End Developer - ABAP Cloud (2026)
-- ABAP Cloud Back-End Development — 205 hours
+- ABAP Cloud Back-End Development — 140 hours
 - SAP Business Technology Platform — 65 hours
 - SAP S/4HANA Procurement and Purchasing (TS450) — 60 hours
 - Bachelor's Degree in Tourism — University of Seville
